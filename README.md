@@ -7,7 +7,7 @@ The main script of code is contained in the "GC_apogee_finder.ipynb" jupyter not
 
 # Dependencies
 
-In order to run this script of code, you will need numpy, astropy, tqdm, and matplotlib. The code was ran in python 3.7, but should run fine for any other python version. Furthermore, in order to save the files, you will need os installed, as well as chacked the "savepath" directory in the code.
+In order to run this script of code, you will need numpy, astropy, tqdm, and matplotlib. The code was ran in python 3.7, but should run fine for any other python version. Furthermore, in order to save the files, you will need os installed, and to change the "savepath" directory in the code.
 
 # Results:
 
